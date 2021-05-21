@@ -1,0 +1,7 @@
+cryptography
+azureml
+azureml-core
+azureml-pipeline
+azureml-widgets
+azure-cli
+scikit-learn
